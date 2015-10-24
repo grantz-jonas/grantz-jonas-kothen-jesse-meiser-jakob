@@ -20,7 +20,7 @@ Beispielhaft habe ich meinen Namen dort eingetragen.
 3. Editiere die README.md Datei indem du deinen Namen in die Liste einträgst, dass du diese Aufgabe erledigt hast.
 4. Pushe die Änderung mit der Git Bash und dem Befehl git in das Repository.
 
-Erledigt: Stemmildt, ...
+Erledigt: Stemmildt, Grantz, ...
 
 
 ### 2. Installiere den spigot Server
